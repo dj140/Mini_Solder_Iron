@@ -1,4 +1,4 @@
-(footprint "JBC245" (version 20211014) (generator pcbnew)
+(footprint "JBC245_3.5mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 628D989F)
   (attr smd)
