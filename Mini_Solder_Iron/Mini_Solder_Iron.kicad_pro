@@ -389,8 +389,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "Mini_Solder_Iron.step",
+      "vrml": "Mini_Solder_Iron.wrl"
     },
     "page_layout_descr_file": ""
   },
